@@ -1,0 +1,15 @@
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\bin\Debug\net5.0\BancoDados.deps.json
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\bin\Debug\net5.0\BancoDados.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\bin\Debug\net5.0\ref\BancoDados.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\bin\Debug\net5.0\BancoDados.pdb
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\bin\Debug\net5.0\Entidades.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\bin\Debug\net5.0\Entidades.pdb
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.csproj.AssemblyReference.cache
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.AssemblyInfoInputs.cache
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.AssemblyInfo.cs
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.csproj.CoreCompileInputs.cache
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.csproj.CopyComplete
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\ref\BancoDados.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\BancoDados\obj\Debug\net5.0\BancoDados.pdb

@@ -1,0 +1,15 @@
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\bin\Debug\net5.0\Entidades.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\bin\Debug\net5.0\Entidades.pdb
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CopyComplete
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\moikn\OneDrive\Área de Trabalho\EntrevistaAgenda\Interfaces\obj\Debug\net5.0\Interfaces.pdb

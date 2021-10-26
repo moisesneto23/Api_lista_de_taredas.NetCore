@@ -1,0 +1,398 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\MinhaAgenda\\MinhaAgenda.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\BancoDados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\BancoDados.csproj",
+        "projectName": "BancoDados",
+        "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\BancoDados.csproj",
+        "packagesPath": "C:\\Users\\moikn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moikn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\moikn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moikn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\moikn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moikn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\MinhaAgenda\\MinhaAgenda.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\MinhaAgenda\\MinhaAgenda.csproj",
+        "projectName": "MinhaAgenda",
+        "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\MinhaAgenda\\MinhaAgenda.csproj",
+        "packagesPath": "C:\\Users\\moikn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\MinhaAgenda\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moikn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\BancoDados.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\BancoDados.csproj"
+              },
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\Repositorio.csproj"
+              },
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Servico\\Servico.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Servico\\Servico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\Repositorio.csproj",
+        "projectName": "Repositorio",
+        "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\Repositorio.csproj",
+        "packagesPath": "C:\\Users\\moikn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moikn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\BancoDados.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\BancoDados\\BancoDados.csproj"
+              },
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Servico\\Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Servico\\Servico.csproj",
+        "projectName": "Servico",
+        "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Servico\\Servico.csproj",
+        "packagesPath": "C:\\Users\\moikn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Servico\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moikn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\moikn\\OneDrive\\Área de Trabalho\\EntrevistaAgenda\\Repository\\Repositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
